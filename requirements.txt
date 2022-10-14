@@ -1,0 +1,13 @@
+fastapi==0.75.1
+fastapi-versioning==0.10.0
+importlib-metadata==4.11.3
+pandas==1.4.2
+powtry==1.1.13
+pyodbc==4.0.32
+python-dotenv==0.20.0
+pyx12==3.0.0rc3
+requests-negotiate-sspi==0.5.2
+sqlacodegen==3.0.0b2
+SQLAlchemy==1.4.35
+uvicorn==0.17.6
+xmltodict==0.12.0
